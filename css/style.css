@@ -195,32 +195,37 @@ table {
     column-gap: 31px;
 
 }
+
 .header__description_box {
     width: 349px;
     height: 328px;
     background-color: white;
-    box-shadow: 10px 10px 40px 20px
-    rgba(0, 0, 0, 0.1) ;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
     text-align: center;
     font-weight: normal;
 }
+
 .header__description_box img {
     padding: 35px 109px 0px 114px;
 }
+
 .top_title .bottom_title {
     font-size: 26px;
     line-height: 30px;
     padding-bottom: 20px;
 }
+
 .top_title {
     color: #2C2C2C;
     margin: 0 43px 20px;
 }
+
 .bottom_title {
     color: #656363;
     text-align: justify-all;
     padding: 0 50px;
 }
+
 .color_text {
     color: #BC9060;
 }
